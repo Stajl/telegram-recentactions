@@ -1,0 +1,6 @@
+.env
+*.log
+log
+**/log
+*.json
+json
